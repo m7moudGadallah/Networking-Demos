@@ -8,6 +8,7 @@
   - [Table Of Content](#table-of-content)
   - [About](#about)
   - [UDP](#udp)
+  - [TCP](#tcp)
 
 <!-- /TOC -->
 
@@ -23,5 +24,15 @@ Here is some simple demo project to gain practical experience with UDP in Node.j
 
 - [UDP Server using nodejs](./udp-demos/simple-udp-server-using-nodejs/)
 - [Sensor data streaming Demo](./udp-demos/sensor-data-streaming-demo/)
+
+**[&uarr;Top](#table-of-content)**
+
+## TCP
+
+> TCP is a connection-oriented protocol that provides reliable, ordered, and error-checked delivery of data between applications.
+
+Here is some simple demo project to gain practical experience with TCP in Node.js:
+
+- [Simple TCP Server using nodejs](./tcp-demos/simple-tcp-server-using-nodejs/)
 
 **[&uarr;Top](#table-of-content)**
