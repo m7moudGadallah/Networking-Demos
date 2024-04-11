@@ -22,7 +22,6 @@ The Networking Demos repository provides practical examples and demonstrations f
 Here is some simple demo project to gain practical experience with UDP in Node.js:
 
 - [UDP Server using nodejs](./udp-demos/simple-udp-server-using-nodejs/)
-- [UDP Server using C](./udp-demos/simple-udp-server-using-c/)
 - [Sensor data streaming Demo](./udp-demos/sensor-data-streaming-demo/)
 
 **[&uarr;Top](#table-of-content)**
